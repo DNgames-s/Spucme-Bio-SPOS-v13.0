@@ -13,6 +13,7 @@ setTimeout(() => {
     document.getElementById("name").style.fontSize = "50px";
     document.getElementById("name").style.top = "60%"
     document.getElementById("name").style.opacity = "0";
+    document.getElementById("buttons").style.display = 'block'
     setTimeout(() => {
       document.getElementById("name").innerHTML = "BIOGRAPHY";
       document.getElementById("buttons").style.opacity = "1";

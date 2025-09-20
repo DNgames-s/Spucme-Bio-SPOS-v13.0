@@ -158,6 +158,7 @@ html,
   opacity: 0;
   text-decoration: none;
   user-select: none;
+  display: none;
 }
 
 .buttons a:hover {
